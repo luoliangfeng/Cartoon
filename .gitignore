@@ -64,3 +64,4 @@ Debug/Cartoonifier_Desktop.ilk
 *.lastbuildstate
 *.tlog
 ZERO_CHECK.vcxproj.filters
+*.cache
